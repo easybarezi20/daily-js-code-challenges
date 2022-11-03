@@ -33,8 +33,11 @@ addOne(1) //=> 2
 addOne(-5) //=> -4
 -----------------------------------------------------------------*/
 // Your solution for 01-addOne here:
-
-
+let a = 4;
+function addOne(x) {
+  return x + 1; 
+}
+console.log(addOne)
 
 
 
